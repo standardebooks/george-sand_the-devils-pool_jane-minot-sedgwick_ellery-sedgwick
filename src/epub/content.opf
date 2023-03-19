@@ -32,14 +32,14 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85098572</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The father-in-law of a young widower seeks to find him a new wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Germain, a late-twenties widower, still lives, with his children, with his late wife’s family. Germain’s father-in-law Maurice decides that two years is long enough to grieve; Germain needs a wife, and his children need a mother. Maurice has investigated, and found what he believes is a suitable match in a neighboring village. He sends Germain off to meet the woman, and at the same time drop off a teenage girl at the farm where she has been newly employed that is on the way. The rest of the novel demonstrates the quote about “best-laid plans.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Devil’s Pool&lt;/i&gt; is the first of four pastoral novels that, as she says in the preface, &lt;a href="https://standardebooks.org/ebooks/george-sand"&gt;George Sand&lt;/a&gt; originally intended to release together. They were inspired by the community in which she was raised.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21993</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.210903</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Devil%27s_Pool</meta>
