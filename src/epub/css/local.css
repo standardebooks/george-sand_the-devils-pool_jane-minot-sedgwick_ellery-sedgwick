@@ -37,16 +37,16 @@ p span.i1{
 }
 /* end of poem/verse/song */
 
-footer {
+footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
-#preface footer p:last-of-type {
+#preface footer p:last-of-type{
 	font-style: italic;
 	text-align: initial;
 }
 
-[epub|type~="z3998:signature"] {
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
