@@ -44,7 +44,6 @@ footer{
 
 #preface footer p:last-of-type{
 	font-style: italic;
-	text-align: initial;
 }
 
 [epub|type~="z3998:signature"]{
