@@ -35,6 +35,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Pastoral Tetralogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">The father-in-law of a young widower seeks to find him a new wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Germain, a late-twenties widower, still lives with his late wife’s family. Germain’s father-in-law Maurice decides that two years is long enough to grieve; Germain needs a wife, and his children need a mother. Maurice has investigated, and found what he believes is a suitable match in a neighboring village. He sends Germain off to meet the woman, and on the way drops off a teenage girl at the farm where she has been newly employed. The rest of the novel demonstrates the old aphorism of “the best-laid plans... often go awry.”&lt;/p&gt;
