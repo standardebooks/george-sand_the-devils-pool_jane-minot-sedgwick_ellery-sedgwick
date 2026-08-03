@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick_ellery-sedgwick</dc:identifier>
 		<dc:date>2023-03-22T21:46:49Z</dc:date>
@@ -39,11 +39,11 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">The father-in-law of a young widower seeks to find him a new wife.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The father-in-law of a young widower seeks to find him a new wife.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Germain, a late-twenties widower, still lives with his late wife’s family. Germain’s father-in-law Maurice decides that two years is long enough to grieve; Germain needs a wife, and his children need a mother. Maurice has investigated, and found what he believes is a suitable match in a neighboring village. He sends Germain off to meet the woman, and on the way drops off a teenage girl at the farm where she has been newly employed. The rest of the novel demonstrates the old aphorism of “the best-laid plans... often go awry.”&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Devil’s Pool&lt;/i&gt; is the first of four pastoral novels that &lt;a href="https://standardebooks.org/ebooks/george-sand"&gt;George Sand&lt;/a&gt; originally intended to release together. They were inspired by the community in which she was raised.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21993</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.210903</dc:source>
