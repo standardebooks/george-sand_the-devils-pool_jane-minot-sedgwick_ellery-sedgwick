@@ -49,7 +49,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.210903</dc:source>
 		<meta property="schema:wordCount">37972</meta>
 		<meta property="schema:educationalLevel">77.16</meta>
-		<link href="https://en.wikipedia.org/wiki/The_Devil%27s_Pool" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/La_Mare_au_Diable" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/george-sand_the-devils-pool_jane-minot-sedgwick_ellery-sedgwick" refines="#vcs-repository" rel="schema:codeRepository"/>
